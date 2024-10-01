@@ -16,6 +16,10 @@ function Error() {
   return `Error`;
 }
 
+function division(a, b) {
+  return a / b;
+}
+
 function suma(a, b) {
   return a + b;
 }
@@ -35,6 +39,7 @@ module.exports = {
   Error: Error,
   suma: suma,
   resta: resta,
-  multiplicacion: multiplicacion
+  multiplicacion: multiplicacion,
+  division: division
 };
 
