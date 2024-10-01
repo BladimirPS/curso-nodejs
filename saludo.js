@@ -10,11 +10,16 @@ function holamundo() {
   return `Hola Mundo a Todoss!`;
 }
 
+function alerta() {
+  return `Alerta!`;
+}
+
+//module.exports.alerta = alerta;
 
 module.exports = {  
   Saludo: saludar,
   Despedida: despedir,
-  HolaMundo: holamundo
-
+  HolaMundo: holamundo,
+  alerta: alerta
 };
 
