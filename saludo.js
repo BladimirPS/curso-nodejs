@@ -20,11 +20,7 @@ function alerta() {
 module.exports = {  
   Saludo: saludar,
   Despedida: despedir,
-<<<<<<< HEAD
-  Curso: curso
-=======
+  Curso: curso,
   HolaMundo: holamundo,
   alerta: alerta
->>>>>>> 0c4d99e (Funcion Alerta Creada)
 };
-
