@@ -24,11 +24,17 @@ function resta(a, b) {
   return a - b;
 }
 
+function multiplicacion(a, b) {
+  return a * b;
+}
+
 module.exports = {  
   Saludo: saludar,
   Despedida: despedir,
   Curso: curso,
   Error: Error,
-  suma: suma
+  suma: suma,
+  resta: resta,
+  multiplicacion: multiplicacion
 };
 
