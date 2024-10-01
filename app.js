@@ -6,4 +6,6 @@ console.log(hola.Saludo('Angel'));
 
 console.log(hola.Despedida('Miguel'));
 
+console.log(hola.HolaMundo());
+
 //console.log(saludar('Sandino'));
