@@ -12,4 +12,6 @@ console.log(hola.Error());
 
 console.log(hola.suma(5, 10));
 
+console.log(hola.resta(10, 5));
+
 //console.log(saludar('Sandino'));
