@@ -12,9 +12,14 @@ function curso() {
 }
 
 
+function Error() {
+  return `Error`;
+}
+
 module.exports = {  
   Saludo: saludar,
   Despedida: despedir,
-  Curso: curso
+  Curso: curso,
+  Error: Error
 };
 

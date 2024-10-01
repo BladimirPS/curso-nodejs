@@ -8,5 +8,7 @@ console.log(hola.Despedida('Miguel'));
 
 console.log(hola.Curso());
 
+console.log(hola.Error());
+
 
 //console.log(saludar('Sandino'));
