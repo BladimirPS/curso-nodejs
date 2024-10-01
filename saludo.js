@@ -8,7 +8,7 @@ function despedir(name) {
 
 
 module.exports = {  
-  saludar: saludar,
-  despedir: despedir
+  Saludo: saludar,
+  Despedida: despedir
 };
 

@@ -2,8 +2,8 @@ const hola = require('./saludo.js');
 
 //console.log(hola);
 
-console.log(hola.saludar('Angel'));
+console.log(hola.Saludo('Angel'));
 
-console.log(hola.despedir('Miguel'));
+console.log(hola.Despedida('Miguel'));
 
 //console.log(saludar('Sandino'));
