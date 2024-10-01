@@ -7,8 +7,14 @@ function despedir(name) {
 }
 
 
+function curso() {
+  return `Curso de Node.js`;
+}
+
+
 module.exports = {  
   Saludo: saludar,
-  Despedida: despedir
+  Despedida: despedir,
+  Curso: curso
 };
 
