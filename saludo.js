@@ -16,10 +16,15 @@ function Error() {
   return `Error`;
 }
 
+function suma(a, b) {
+  return a + b;
+}
+
 module.exports = {  
   Saludo: saludar,
   Despedida: despedir,
   Curso: curso,
-  Error: Error
+  Error: Error,
+  suma: suma
 };
 

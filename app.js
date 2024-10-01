@@ -10,5 +10,6 @@ console.log(hola.Curso());
 
 console.log(hola.Error());
 
+console.log(hola.suma(5, 10));
 
 //console.log(saludar('Sandino'));
